@@ -2,8 +2,10 @@
 
 - registers = 4
 - special registers = 2
-- max instructions = 64
-- max memory = 256
+  - cmp result
+  - stack pointer
+- code instructions limit = 64 opcodes
+- memory limit = 256 bytes
 
 inst. | opcode | example | description
 ----- | ------ | ------- | -----------
