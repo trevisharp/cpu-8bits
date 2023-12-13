@@ -1,9 +1,9 @@
 # cpu-8bits
 
-registers = 4
-special registers = 2
-max instructions = 64
-max memory = 256
+- registers = 4
+- special registers = 2
+- max instructions = 64
+- max memory = 256
 
 inst. | opcode | example | description
 ----- | ------ | ------- | -----------
