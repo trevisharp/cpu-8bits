@@ -121,7 +121,8 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="4" loc="(610,360)" name="ROM">
       <a name="addrWidth" val="6"/>
       <a name="contents">addr/data: 6 8
-73 63 71 74 79
+7f 63 71 74 78 75 63 72
+5c 85
 </a>
     </comp>
     <comp lib="0" loc="(600,270)" name="Constant">
